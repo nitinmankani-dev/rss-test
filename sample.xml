@@ -10,16 +10,16 @@
       <guid>urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b</guid>
       <title>Latest Video Update</title>
       <description>Watch the latest news highlights.</description>
-      <pubDate>Tue, 05 July 2026 00:11:23 GMT</pubDate>
+      <pubDate>Sun, 05 Jul 2026 00:11:23 GMT</pubDate>
       <link>https://www.example.com/videos/latest-news</link>
 
       <enclosure
-        url="https://www.example.com/videos/latest-news.mp4"
+        url="https://media.nw18.com/media-assets/hf20px/c9638da0-3d35-4c3c-9ac0-cafc997ba905/DDt-W7uV_hM_1783016211/720p-h264.mp4"
         length="0"
         type="video/mp4"/>
 
       <media:content
-        url="https://www.example.com/videos/latest-news.mp4"
+        url="https://media.nw18.com/media-assets/hf20px/c9638da0-3d35-4c3c-9ac0-cafc997ba905/DDt-W7uV_hM_1783016211/720p-h264.mp4"
         type="video/mp4"/>
     </item>
 
@@ -27,16 +27,16 @@
       <guid>urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6c</guid>
       <title>Previous Video Update</title>
       <description>Watch the previous news highlights.</description>
-      <pubDate>Mon, 05 July 2026 00:04:50 GMT</pubDate>
+      <pubDate>Sun, 05 Jul 2026 00:04:50 GMT</pubDate>
       <link>https://www.example.com/videos/previous-news</link>
 
       <enclosure
-        url="https://www.example.com/videos/previous-news.mp4"
+        url="https://media.nw18.com/media-assets/hf20px/815e009b-5b2c-4e7f-b805-0b1c784ab4f1/wGshD4BXkyo_1783016147/720p-h264.mp4"
         length="0"
         type="video/mp4"/>
 
       <media:content
-        url="https://www.example.com/videos/previous-news.mp4"
+        url="https://media.nw18.com/media-assets/hf20px/815e009b-5b2c-4e7f-b805-0b1c784ab4f1/wGshD4BXkyo_1783016147/720p-h264.mp4"
         type="video/mp4"/>
     </item>
 
