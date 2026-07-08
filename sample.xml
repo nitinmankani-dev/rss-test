@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Example Video Feed</title>
+    <link>https://www.example.com/videos</link>
+    <description>Latest video updates</description>
+
+    <item>
+      <guid>urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b</guid>
+      <title>Latest Video Update</title>
+      <description>Watch the latest news highlights.</description>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+      <link>https://www.example.com/videos/latest-news</link>
+
+      <enclosure
+        url="https://www.example.com/videos/latest-news.mp4"
+        length="0"
+        type="video/mp4"/>
+
+      <media:content
+        url="https://www.example.com/videos/latest-news.mp4"
+        type="video/mp4"/>
+    </item>
+
+    <item>
+      <guid>urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6c</guid>
+      <title>Previous Video Update</title>
+      <description>Watch the previous news highlights.</description>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <link>https://www.example.com/videos/previous-news</link>
+
+      <enclosure
+        url="https://www.example.com/videos/previous-news.mp4"
+        length="0"
+        type="video/mp4"/>
+
+      <media:content
+        url="https://www.example.com/videos/previous-news.mp4"
+        type="video/mp4"/>
+    </item>
+
+  </channel>
+</rss>
