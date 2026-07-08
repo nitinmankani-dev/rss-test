@@ -10,7 +10,7 @@
       <guid>urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b</guid>
       <title>Latest Video Update</title>
       <description>Watch the latest news highlights.</description>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 05 July 2026 00:11:23 GMT</pubDate>
       <link>https://www.example.com/videos/latest-news</link>
 
       <enclosure
@@ -27,7 +27,7 @@
       <guid>urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6c</guid>
       <title>Previous Video Update</title>
       <description>Watch the previous news highlights.</description>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 05 July 2026 00:04:50 GMT</pubDate>
       <link>https://www.example.com/videos/previous-news</link>
 
       <enclosure
