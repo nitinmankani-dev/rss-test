@@ -11,7 +11,6 @@
       <title>Latest Video Update</title>
       <description>Watch the latest news highlights.</description>
       <pubDate>2026-07-05T00:11:23.0Z</pubDate>
-      <!-- <pubDate>Sun, 05 Jul 2026 00:11:23 GMT</pubDate> -->
       <link>https://www.example.com/videos/latest-news</link>
 
       <enclosure
@@ -22,10 +21,6 @@
       <enclosure
         url="https://media.nw18.com/media-assets/wbx6pq/07-2026/08-2026/SRG5dZy5DZ-0807-BIG-B-RACISMVODjpg-S5WCTaA3Ge.jpg"
         type="image/jpeg"/>
-
-      <!-- <media:content
-        url="https://media.nw18.com/media-assets/hf20px/c9638da0-3d35-4c3c-9ac0-cafc997ba905/DDt-W7uV_hM_1783016211/720p-h264.mp4"
-        type="video/mp4"/> -->
     </item>
 
     <item>
@@ -33,7 +28,6 @@
       <title>Previous Video Update</title>
       <description>Watch the previous news highlights.</description>
       <pubDate>2026-07-05T00:04:50.0Z</pubDate>
-      <!-- <pubDate>Sun, 05 Jul 2026 00:04:50 GMT</pubDate> -->
       <link>https://www.example.com/videos/previous-news</link>
 
       <enclosure
@@ -44,10 +38,6 @@
       <enclosure
         url="https://media.nw18.com/media-assets/wbx6pq/07-2026/08-2026/WUXZgVT4Ne-0807-JOKE-OF-THE-DAYVODjpg-LRLfeLWlNq.jpg"
         type="image/jpeg"/>
-
-      <!-- <media:content
-        url="https://media.nw18.com/media-assets/hf20px/815e009b-5b2c-4e7f-b805-0b1c784ab4f1/wGshD4BXkyo_1783016147/720p-h264.mp4"
-        type="video/mp4"/> -->
     </item>
 
   </channel>
