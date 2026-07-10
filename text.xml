@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Example Text Flash Briefing</title>
+    <link>https://www.example.com/news</link>
+    <description>Latest news updates</description>
+
+    <item>
+      <guid>urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b</guid>
+      <title>Top Story</title>
+      <description>
+        Iran faces deep divisions beyond war with US as Islamic Republic bids farewell to Khamenei
+      </description>
+      <pubDate>2026-07-10T09:30:00.0Z</pubDate>
+      <link>https://www.example.com/news/top-story</link>
+    </item>
+
+    <item>
+      <guid>urn:uuid:2335c695-cfb8-4ebb-abbd-80da344efa6c</guid>
+      <title>Update</title>
+      <description>
+        Even as Islamic Republic projects unity in bidding farewell to slain Supreme Leader Ayatollah Ali Khamenei, Iran remains deeply divided between hardliners, pragmatists, and opponents of the regime — and these differences are not hard to see.
+      </description>
+      <pubDate>2026-07-10T08:30:00.0Z</pubDate>
+      <link>https://www.example.com/news/sports</link>
+    </item>
+
+  </channel>
+</rss>
