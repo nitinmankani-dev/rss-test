@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Example Video Feed</title>
+    <link>https://www.example.com/videos</link>
+    <description>Latest video updates</description>
+
+    <item>
+      <guid>urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b</guid>
+      <title>Latest Video Update</title>
+      <description>Watch the latest news highlights.</description>
+      <pubDate>2026-07-05T00:11:23.0Z</pubDate>
+      <link>https://www.example.com/videos/latest-news</link>
+
+      <enclosure
+        url="https://media.nw18.com/fp/Overlays/ac80-8dbe-4985-b2b4-5590dd74519c.mp3"
+        length="12054192"
+        type="audio/mpeg"/>
+
+      <enclosure
+        url="https://media.nw18.com/media-assets/wbx6pq/07-2026/08-2026/SRG5dZy5DZ-0807-BIG-B-RACISMVODjpg-S5WCTaA3Ge.jpg"
+        type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
