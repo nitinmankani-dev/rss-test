@@ -10,7 +10,7 @@
     <pubDate>2026-07-27T00:11:23.0Z</pubDate>
     <link>https://www.example.com/videos/latest-news-one</link>
     <enclosure url="https://media.nw18.com/fp/Overlays/cf13-d816-4191-9c81-c4a3f117665e.mp3" length="3149016" type="audio/mpeg"/>
-    <enclosure url="https://media.nw18.com/media-assets/cfd4aq/db462179-e44a-4997-8dde-2f346e3c4f38/07-2026/10-2026/8yifABo8pi-1D4KZhbOkXMathew-FIFA-10julmp4-adWuFIZIoP/1080highp-h264.mp4" length="42720613" type="video/mp4"/>
+    <enclosure url="https://media.nw18.com/media-assets/cfd4aq/db462179-e44a-4997-8dde-2f346e3c4f38/07-2026/10-2026/8yifABo8pi-1D4KZhbOkXMathew-FIFA-10julmp4-adWuFIZIoP/1080highp-h264.mp4" length="42720613" type="video/mpeg"/>
     <enclosure url="https://media.nw18.com/media-assets/wbx6pq/07-2026/08-2026/SRG5dZy5DZ-0807-BIG-B-RACISMVODjpg-S5WCTaA3Ge.jpg" type="image/jpeg"/>
   </item>
   <item>
@@ -19,7 +19,7 @@
     <description>Watch the latest news highlights two.</description>
     <pubDate>2026-07-26T00:11:23.0Z</pubDate>
     <link>https://www.example.com/videos/latest-news-two</link>
-    <enclosure url="https://media.nw18.com/media-assets/t4akda/b5029b9e-f325-4c1b-a014-4584c900f0f3/07-2026/28-2026/Z1191yoklE-eMXznfIK1wHYP5871148video202607271545492mp4-oh93VpsxFY/720p-h264.mp4" length="53432429" type="video/mp4"/>
+    <enclosure url="https://media.nw18.com/media-assets/t4akda/b5029b9e-f325-4c1b-a014-4584c900f0f3/07-2026/28-2026/Z1191yoklE-eMXznfIK1wHYP5871148video202607271545492mp4-oh93VpsxFY/720p-h264.mp4" length="53432429" type="video/mpeg"/>
     <enclosure url="https://media.nw18.com/media-assets/wbx6pq/07-2026/08-2026/SRG5dZy5DZ-0807-BIG-B-RACISMVODjpg-S5WCTaA3Ge.jpg" type="image/jpeg"/>
   </item>
   <item>
